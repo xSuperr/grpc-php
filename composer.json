@@ -20,5 +20,11 @@
     "psr-4": {
       "Grpc\\": "src/lib/"
     }
+  },
+  "extra": {
+    "virion": {
+      "spec": "3.0",
+      "namespace-root": "Grpc\\"
+    }
   }
 }
